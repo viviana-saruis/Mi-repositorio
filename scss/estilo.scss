@@ -1,0 +1,11 @@
+/* Imagen Section */
+
+$font:400;
+$margen:30px 0;
+$blanco:#d1d1d1;
+
+
+#imagen .item p {
+	font-weight: $font;
+	margin: $margen;
+	color:$blanco; }
